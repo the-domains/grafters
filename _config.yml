@@ -1,7 +1,7 @@
 name: Grafters
 favicon: null
-layout_spectrum: 0.22133675822988153
-typography_spectrum: 0.6058338249567896
+layout_spectrum: 0.37956
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.2051245435141027
-  lightness: 0.39796929783187807
-  saturation: 0.062097641406580806
-  rhythmicContrast: 0.6452274101320654
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
