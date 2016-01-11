@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grafters]]></title>
+        <description><![CDATA[Grafters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 20:22:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reviews]]></title>
+            <description><![CDATA[<article><h1>Reviews</h1><h2>THE INDEPENDENT CRITIC - GRADE: A-</h2><p>GRAFTERS is a Satisfying, Involving Film</p></article>]]></description>
+            <link>undefinedreviews/index.html</link>
+            <guid isPermaLink="false">ec206d3a-7b9a-437c-b3a4-e638f23a53b6</guid>
+            <pubDate>Mon, 11 Jan 2016 20:21:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
