@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Grafters]]></title>
         <description><![CDATA[Grafters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grafters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 20:22:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 20:22:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grafters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsletter]]></title>
+            <description><![CDATA[<article><h1>Newsletter</h1><p>Sign up to the Virtuous Quarterly Newsletter </p></article>]]></description>
+            <link>https://thegrid.ai/grafters/fa0dbf5f-df17-4a69-89de-07e9b9946489/index.html</link>
+            <guid isPermaLink="false">fa0dbf5f-df17-4a69-89de-07e9b9946489</guid>
+            <pubDate>Mon, 11 Jan 2016 20:22:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reviews]]></title>
             <description><![CDATA[<article><h1>Reviews</h1><h2>THE INDEPENDENT CRITIC - GRADE: A-</h2><p>GRAFTERS is a Satisfying, Involving Film</p></article>]]></description>
-            <link>undefinedreviews/index.html</link>
+            <link>https://thegrid.ai/grafters/reviews/index.html</link>
             <guid isPermaLink="false">ec206d3a-7b9a-437c-b3a4-e638f23a53b6</guid>
             <pubDate>Mon, 11 Jan 2016 20:21:53 GMT</pubDate>
         </item>
